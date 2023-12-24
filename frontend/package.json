@@ -1,0 +1,72 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.11.1",
+    "@emotion/styled": "^11.11.0",
+    "@fortawesome/fontawesome-svg-core": "^6.4.2",
+    "@fortawesome/free-solid-svg-icons": "^6.4.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@mui/icons-material": "^5.14.16",
+    "@mui/material": "^5.14.15",
+    "@mui/x-data-grid": "^6.17.0",
+    "@reduxjs/toolkit": "^1.6.1",
+    "@stripe/react-stripe-js": "^2.3.1",
+    "@stripe/stripe-js": "^2.1.7",
+    "@testing-library/jest-dom": "^5.14.1",
+    "@testing-library/react": "^11.2.7",
+    "@testing-library/user-event": "^12.8.3",
+    "axios": "^0.21.1",
+    "canvas-confetti": "^1.9.2",
+    "emailjs-com": "^3.2.0",
+    "ffmpeg.js": "^4.2.9003",
+    "jwt-decode": "^3.1.2",
+    "moment": "^2.29.4",
+    "nodemailer": "^6.9.7",
+    "otp-generator": "^4.0.1",
+    "pdfkit": "^0.13.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.11.0",
+    "react-multi-carousel": "^2.8.4",
+    "react-quill": "^2.0.0",
+    "react-redux": "^7.2.4",
+    "react-responsive-carousel": "^3.2.23",
+    "react-router-dom": "^6.3.0",
+    "react-scripts": "4.0.3",
+    "react-scroll": "^1.9.0",
+    "react-scroll-trigger": "^0.6.14",
+    "react-toastify": "^7.0.4",
+    "recharts": "^2.9.0",
+    "smtp-server": "^3.13.0",
+    "smtpjs": "^0.0.1",
+    "styled-components": "^5.3.5",
+    "web-vitals": "^1.1.2",
+    "yesno-dialog": "^0.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
